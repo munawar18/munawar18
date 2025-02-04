@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohammad Munawar Ali<br>👀 I’m interested in website designing and programming<br>🌱 I’m currently learning backend<br>💞️ I’m looking to collaborate on Frontend<br>📫 Reach me at munawarali1807@gmail.com
+👋 Hi, I’m Mohammad Munawar Ali<br>👀 I’m interested in website designing and programming<br> I’m looking to collaborate on Frontend or Python Programming<br>📫 Reach me at munawarali1807@gmail.com
 
 
 ## 🌐 Socials:
